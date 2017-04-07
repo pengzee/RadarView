@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<work.pengzhe.com.radarview.RadarView
+    android:id="@+id/radar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    app:bgColor="@color/bgColor"
+    app:circleCount="4"
+    app:endColor="@color/endColor"
+    app:lineColor="@color/lineColor"
+    app:startColor="@color/startColor">
+
+
+</work.pengzhe.com.radarview.RadarView>
